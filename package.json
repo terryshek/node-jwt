@@ -1,0 +1,7 @@
+{
+  "name": "node-jwt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:terryshek/node-jwt.git",
+  "license": "MIT"
+}
